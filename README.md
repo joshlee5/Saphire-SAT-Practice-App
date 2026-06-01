@@ -1,16 +1,7 @@
-# sat_practice_app
+# Saphire SAT Practice App
 
-A new Flutter project.
+## A Student-oriented Experience
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Saphire SAT Pratice offers convenient, on-the-go SAT practice for students that are studyign for the SAT and do not abide by a rigid study schedule. We offer quick practice sessions where students answer questions and receive instantaneous feedback when they are wrong. We store each user's information for our metrics so that we can gauge their expertise in each subject and make recommendations on which areas the user should focus on. 
+  
+The current code in this repository is an MVP. It offers limited questions in reading and math as well as instanteneous feedback when the user gets a wrong answer. Their history is stored in Google Firestore for future implementation of a more adaptive practice mode. It shows the potential of what is being created.
